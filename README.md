@@ -24,7 +24,7 @@
 ### 🔭 I’m currently working on ---
 
 <a href="https://github.com/shawsuraj/VerumVeil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shawsuraj&repo=movie-barcode&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shawsuraj&repo=VerumVeil&theme=dracula" />
 </a>
 <a href="https://github.com/shawsuraj/nuntius">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shawsuraj&repo=nuntius&theme=dracula" />
