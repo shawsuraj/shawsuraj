@@ -23,7 +23,7 @@
 
 ### 🔭 I’m currently working on ---
 
-<a href="https://github.com/shawsuraj/movie-barcode">
+<a href="https://github.com/shawsuraj/Verum-Veil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shawsuraj&repo=movie-barcode&theme=dracula" />
 </a>
 <a href="https://github.com/shawsuraj/nuntius">
