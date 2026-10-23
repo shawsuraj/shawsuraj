@@ -4,7 +4,7 @@ I build systems by day and make drinks by night.
 
 Final year Computer Science student at the University of Westminster, London. LCSP certified since 2019, working toward CEH and OSCP. Most of what I build, I build and run alone.
 
-**Four worlds, one person.** More at **[shawsuraj.com](https://shawsuraj.com)**.
+**Four worlds, one person.** More at **[shawsuraj.com](https://www.shawsuraj.com)**. Experiments at **[shawlabs.dev](https://www.shawlabs.dev)**.
 
 | | |
 |---|---|
@@ -21,7 +21,7 @@ Final year Computer Science student at the University of Westminster, London. LC
 
 ### Reach me
 
-[shaw@shawsuraj.com](mailto:shaw@shawsuraj.com) · [LinkedIn](https://www.linkedin.com/in/shawsuraj/) · [shawsuraj.com](https://shawsuraj.com)
+[shaw@shawsuraj.com](mailto:shaw@shawsuraj.com) · [LinkedIn](https://www.linkedin.com/in/shawsuraj/) · [shawsuraj.com](https://www.shawsuraj.com) · [shawlabs.dev](https://www.shawlabs.dev)
 
 <a href="https://github.com/shawsuraj">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawsuraj&langs_count=8&layout=compact&hide_border=true" alt="Top languages" />
